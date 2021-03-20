@@ -1,0 +1,83 @@
+
+.translate-trigger {    
+    margin-left: 87%;
+    margin-right: 3%;
+    background-color: #f89406;
+    border-style: none;
+    font-size: 100%;
+    color: white;
+    font-weight: bold;
+    padding-left: 2%;
+    padding-right: 4%;
+    position: ;
+}
+
+.header{
+    padding-top: 15px;
+    padding-right: ;
+    padding-left: 75px;
+}
+
+.navbar{
+    margin-top: 2%;
+}
+
+li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-right: 25px;
+}
+
+.Parent-ul{
+    list-style-type: none;
+}
+
+.Parent-ul li{
+    line-height: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    padding-right: 0px;
+    padding-top: 5px;
+    text-decoration: underline;
+}
+
+.web-path{
+    padding-bottom: 10px;
+}
+
+.about-border {
+    display: block;
+    height: 5px;
+    background: black;
+    padding-bottom: 3px;
+    margin-bottom: 2%;
+}
+
+.footer-border {
+    display: block;
+    height: 5px;
+    background-color: gray;
+    padding-bottom: 3px;
+    margin-bottom: 2%;
+}
+
+.end-border {
+    display: block;
+    height: 0.5px;
+    background-color: gray;
+    padding-bottom: 3px;
+    margin-bottom: 2%;
+}
+
+
+.Parent-ul a{
+    color: black;
+}
+
+.nav-tabs li{
+    padding: 0%;
+}
+
+.col-sm-3 a{
+    color: black;
+}
